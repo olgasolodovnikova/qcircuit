@@ -1,8 +1,7 @@
 # qcircuit
 
 ## Qubit circuit simulator
-See `Simulator.ipynb` for examples
-
+Located in `qubitsim.py`. See `Simulator.ipynb` for examples.
 
 ## Wigner function <-> density matrix 
 
