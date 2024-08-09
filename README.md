@@ -9,6 +9,8 @@ See `Simulator.ipynb` for examples
 ## Requirements
 See `requirements.txt` (same as Jonas' .yaml file)
 
+To install, clone the repository, create a new environment and run `pip install -r requirements.txt` from root.
+
 
 
 
